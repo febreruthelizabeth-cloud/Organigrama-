@@ -29,3 +29,6 @@ flowchart TD
   mama -.-> controles
   envasado -.-> pedidos
   cocina -.-> productos
+
+Agregar organigrama en Mermaid al README
+Formato PNG
